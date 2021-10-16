@@ -1,0 +1,25 @@
+{
+  "name": "dasmoto",
+  "version": "1.0.0",
+  "description": "Dasmoto's arts and crafts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel index.html",
+    "build": "parcel build index.html --public-url ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NasirKhalidQ/dasmoto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NasirKhalidQ/dasmoto/issues"
+  },
+  "homepage": "https://github.com/NasirKhalidQ/dasmoto#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
